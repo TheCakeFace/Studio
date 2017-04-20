@@ -1,4 +1,4 @@
-package co.cakeface.studio.studio;
+package co.cakeface.studio;
 
 import org.bukkit.plugin.java.JavaPlugin;
 
