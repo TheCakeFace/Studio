@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Studio">
+    <output-path>G:/Users/Cake/Desktop/Server Stuff/CF-Community-master/VirtuaServer/plugins</output-path>
+    <root id="archive" name="Studio.jar">
+      <element id="module-output" name="Studio" />
+      <element id="library" level="project" name="Maven: org.spigotmc:spigot-api:1.11.2-R0.1-SNAPSHOT" />
+    </root>
+  </artifact>
+</component>
